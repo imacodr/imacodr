@@ -1,4 +1,8 @@
-### Hi there 👋
+![welcome](https://imgur.com/a/nanmMFU)
+
+# Hello! Welcome to my GitHub.
+
+
 
 <!--
 **imacodr/imacodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
