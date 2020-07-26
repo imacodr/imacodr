@@ -4,7 +4,7 @@
 
 I am a Roblox developer and a Discord bot developer. You might know me through Megaphone bot or Moblox. If you want to manage your Roblox group easier I suggets you reading the instructions of Moblox. Well anyways, I am always up to conversations about my projects or questions.
 
-# Find me in the wide web <img align="left" width="150" height="150" src="./gif.gif"></a>
+# Find me in the wide web <img align="left" width="250" height="150" src="./gif.gif"></a>
 
 
 
