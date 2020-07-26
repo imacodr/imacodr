@@ -1,4 +1,4 @@
-![welcome](https://imgur.com/a/nanmMFU)
+![welcome](./welcome.png)
 
 # Hello! Welcome to my GitHub.
 
