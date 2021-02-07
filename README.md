@@ -1,11 +1,13 @@
 # Hi, I am Sam 👋
 
-I am a Roblox developer and Node.js programmer.
-
-# Find me in the wide web 🌎 <img align="left" width="250" height="150" src="https://github.com/imacodr/imacodr/blob/master/gif.gif"></a>
-    
    - Follow me on [Twitter](https://twitter.com/imacodr)
    - Follow me on GitHub
+   - Follow me on [Roblox](https://www.roblox.com/users/501780776/profile)
+   
+   
+# Languages
+
+[https://camo.githubusercontent.com/c5baea68c595856dd7d22a300f836e7f23b1df7d90f08f44a926cd47732c7ee1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d6a733f6c6f676f3d4e6f64652e6a73267374796c653d666f722d7468652d626164676526636f6c6f723d316631663166]
 
 
 
