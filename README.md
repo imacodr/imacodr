@@ -1,5 +1,6 @@
 <p align="center">
-<img width="30%" src="https://github.com/imacodr/imacodr/raw/master/memoji.png" alt="memoji" />
+<img width="30%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/memoji.png" alt="memoji" style="padding-right: 200px;" />
+<img width="30%" src="https://github.com/imacodr/imacodr/blob/master/memoji.png" alt="info" />
 <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
 
