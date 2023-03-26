@@ -1,14 +1,15 @@
-<p align="center">
+<div align="center">
 <img width="30%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/memoji.png" alt="memoji" style="padding-right: 200px;" />
-<img width="30%" src="https://github.com/imacodr/imacodr/blob/master/memoji.png" alt="info" />
-<img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
-</p>
+<img width="30%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/info.png" alt="info" />
+</div>
+
+----
 
 # Hey! My name is Sam. 👋
 
 ```json
    {
-      "name": "Sam",
+      "name": "Sam P",
       "username": "imacodr",
       "from": "Brazil",
       "living": "United States",
