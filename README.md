@@ -1,6 +1,5 @@
 <div align="center">
-<img width="30%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/memoji.png" alt="memoji" style="padding-right: 200px;" />
-<img width="30%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/info.png" alt="info" />
+<img width="100%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/info.png" alt="info" />
 </div>
 
 ----
