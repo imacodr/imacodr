@@ -4,5 +4,5 @@
 
 ----
 
-Programmer. Junior. I like making cool stuff!
+💻 programmer, 💰 entrepreneur, 🎵 musician, ✈️ aviation enthusiast
 
