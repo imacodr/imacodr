@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/imacodr/imacodr/master/info.png" alt="info" />
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:622277900065832961)](https://discord.com/users/:622277900065832961)
 
 ----
 
