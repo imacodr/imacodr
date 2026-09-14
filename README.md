@@ -4,6 +4,10 @@
 
 software for the good minded :)
 
+software engineer at @runuai
+
+IS student at The University of Utah
+
 ----
 
 💻 programmer, 💰 entrepreneur, 🎵 musician, ✈️ aviation enthusiast
