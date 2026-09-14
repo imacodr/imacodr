@@ -4,7 +4,7 @@
 
 software for the good minded :)
 
-software engineer at @runuai
+software engineer at Uai Tech
 
 IS student at The University of Utah
 
