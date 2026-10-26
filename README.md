@@ -6,7 +6,7 @@ software for the good minded :)
 
 software engineer at Uai Tech
 
-IS student at The University of Utah
+Software Development student at The University of Utah
 
 ----
 
