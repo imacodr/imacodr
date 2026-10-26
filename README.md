@@ -9,8 +9,7 @@ software engineer, product designer, and music producer. I build creative, immer
 **currently building**
 - [Uai](https://runuai.com) — teams of AI agents that plan, build, and review code in parallel, on your own machine
 - [Memoria](https://runmemoria.com) — live dashboards for high-volume school events
-- Grammar Police vs Criminals — a 2–8 player party game with real-time multiplayer
-
+- 
 **open source (Roblox)**
 - Texturebox — store and reuse textures across projects
 - Fetchu — a lightweight wrapper around HTTPService
