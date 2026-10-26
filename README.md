@@ -4,7 +4,7 @@
 
 software engineer, product designer, and music producer. I build creative, immersive software — things that give people a small sense of wonder.
 
-Software Development student at ![uofu](ulogoemoji.png) The University of Utah 
+***Software Development student at ![uofu](ulogoemoji.png) The University of Utah***
 
 **currently building**
 - [Uai](https://runuai.com) — teams of AI agents that plan, build, and review code in parallel, on your own machine
