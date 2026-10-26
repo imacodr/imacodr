@@ -1,10 +1,10 @@
 <img src="banner.png" alt="Sam Perillo — software engineer, designer, music producer" width="100%">
 
-### hey, I'm Sam
+### hey, I'm Sam 👋
 
 software engineer, product designer, and music producer. I build creative, immersive software — things that give people a small sense of wonder.
 
-Software Development student at The University of Utah
+Software Development student at The University of Utah <img src="ulogoemoji.png" alt="uofu">
 
 **currently building**
 - [Uai](https://runuai.com) — teams of AI agents that plan, build, and review code in parallel, on your own machine
